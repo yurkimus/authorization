@@ -1,0 +1,21 @@
+{
+  "type": "module",
+
+  "name": "@yurkimus/functions",
+
+  "version": "0.0.0",
+  "author": "yurkimus <yurkimus@gmail.com>",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurkimus/authorization.git"
+  },
+
+  "exports": "./source/index.js",
+
+  "dependencies": {
+    "@yurkimus/types": "npm:@yurkimus/types",
+
+    "@yurkimus/message": "npm:@yurkimus/message"
+  }
+}

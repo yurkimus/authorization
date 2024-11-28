@@ -1,0 +1,15 @@
+{
+  "version": "4",
+  "remote": {
+    "https://raw.githubusercontent.com/yurkimus/message/main/source/index.js": "dae0215a19a0b6d53526ae6582134797efba0e05c9743e89bb53e696354fa019",
+    "https://raw.githubusercontent.com/yurkimus/types/main/source/index.js": "55d9d59e538e7c73a6558e4657281517bb26bdcfcea2fc05a4db5228243cedcf"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@yurkimus/message@*",
+        "npm:@yurkimus/types@*"
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": "0.0.0",
+
+  "imports": {
+    "@yurkimus/types": "https://raw.githubusercontent.com/yurkimus/types/main/source/index.js",
+
+    "@yurkimus/message": "https://raw.githubusercontent.com/yurkimus/message/main/source/index.js"
+  }
+}
