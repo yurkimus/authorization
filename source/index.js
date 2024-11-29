@@ -1,6 +1,6 @@
 import { read } from '@yurkimus/message'
 
-export let authorize = url => headers =>
+export let authorization = url => headers =>
   fetch(url, { method: 'GET', headers })
     .then(read)
     .then(([response, body]) => {

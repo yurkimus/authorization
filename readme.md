@@ -1,3 +1,3 @@
 ```
-authorize = url => headers => Promise<any>
+authorization = url => headers => Promise<any>
 ```
