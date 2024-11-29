@@ -1,6 +1,6 @@
 import { read } from '@yurkimus/message'
 
-export let authorization = url => authorization =>
+export let authorization = (url, authorization) =>
   fetch(
     url,
     {
